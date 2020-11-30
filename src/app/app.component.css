@@ -1,4 +1,14 @@
 h1  {
+    background-image: url("https://lh3.googleusercontent.com/proxy/NUkVIAdD_hElBWGX7es_dcvMKJd-Xtfv98VtctCehTeAf_UJW5LbSVw16C_MhEt-PZQLHHDrpTIQi3HtflGyPD6D9BnkwqwEu1h0NEN9GnElkQ0kkLUOkvk3YEYuYNRuUI-D3fk9B-XnjUQWlBp2WWrLzyBB");
+    color: white;
     text-align: center;
     text-shadow: 3px 3px 5px grey;
+}
+.image {
+    padding: 10%;
+    border-radius: 35px;
+    background-repeat: no-repeat;
+    background-image: url("https://static9.depositphotos.com/1452420/1150/v/950/depositphotos_11504224-stock-illustration-math-background.jpg");
+    background-color: teal;
+    
 }
